@@ -1,0 +1,22 @@
+# Node
+frontend/node_modules/
+frontend/dist/
+
+# Environment files
+frontend/.env
+backend/.env
+
+# Java
+backend/target/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
